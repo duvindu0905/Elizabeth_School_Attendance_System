@@ -19,7 +19,7 @@ Key Features
 
 Security Features
 
-1.Password Security:
+1. Password Security:
   - Passwords are hashed using MD5.
   - OTP-based password recovery mechanism.
 2. Data Encryption:
