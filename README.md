@@ -33,10 +33,10 @@ Security Features
 
 Technologies Used
 
-Backend: PHP, MySQL
-Frontend: HTML, CSS, JavaScript
-Security: MD5 for password hashing, AES-256-CBC for encryption, HTTPS with SSL.
-Hosting: Linux server with ZeroSSL certificate.
+1. Backend: PHP, MySQL
+2. Frontend: HTML, CSS, JavaScript
+3. Security: MD5 for password hashing, AES-256-CBC for encryption, HTTPS with SSL.
+4. Hosting: Linux server with ZeroSSL certificate.
 
 System Functionalities
 
